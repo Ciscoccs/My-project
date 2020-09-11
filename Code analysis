@@ -4,9 +4,22 @@
 #Workflow
 ## Analyze if or else if sequence in each of the peripherals (draft)
 IF Pc connected to interphase cloud then TRUE 
-ELSE Diconnect
+ELSE Disconnect
 ###Confirm the connection of each peripherals between them and to the servers (draft)
 If laptop connected to server PRINT ok ELSE FALSE
 If desktop connected to router PRINT on connections ELSE FALSE
 If desktop-laptop-servers-cloud connected PRINT ok system ELSE FALSE
 ##Work flow for draft con IP command sequence
+
+###RUN various sequence of commands based on conditionals
+
+###RUN logic chain for IP sequences and commands -use PING?
+
+#ECHO-
+  Print OK FOR CONNECTIONS
+  
+ #ECHO 
+    TRUE FOR ALL CONNECTIONS
+      ELSE IF FALSE
+      echo PING 
+##All over again
