@@ -1,0 +1,12 @@
+#Branches
+##Extend branches-analyze logic structure from main
+
+#Workflow
+## Analyze if or else if sequence in each of the peripherals (draft)
+IF Pc connected to interphase cloud then TRUE 
+ELSE Diconnect
+###Confirm the connection of each peripherals between them and to the servers (draft)
+If laptop connected to server PRINT ok ELSE FALSE
+If desktop connected to router PRINT on connections ELSE FALSE
+If desktop-laptop-servers-cloud connected PRINT ok system ELSE FALSE
+##Work flow for draft con IP command sequence
